@@ -31,3 +31,14 @@
         />
 </a>
 ```
+
+## URL Links
+
+> Copy one of these links!
+
+| Size (Height) | URL |
+|------|-----|
+| 256 | https://github.com/SkyrimScripting/Download/blob/main/DownloadButton_256.png?raw=true |
+| 128 | https://github.com/SkyrimScripting/Download/blob/main/DownloadButton_128.png?raw=true |
+| 64 | https://github.com/SkyrimScripting/Download/blob/main/DownloadButton_64.png?raw=true |
+
